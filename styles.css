@@ -1,0 +1,48 @@
+body {
+    background-color: #eee;
+    padding: 20px;
+}
+
+img {
+    width: 200px;
+}
+
+h3 {
+    padding: 20px;
+    border: 10px solid black;
+    margin: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    font: bold 20px Courier New;
+}
+
+h1 {
+    color: #003cb3;
+}
+
+p {
+    padding: 10px;
+    border: 5px groove pink;
+    margin: 5px;
+}
+
+li {
+    padding: 20px;
+    border: 9px solid #29a3a3;
+    margin: 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+div {
+    margin: 30px;
+    padding: 10px;
+    background: white;
+    border: 10px groove lightblue;
+}
